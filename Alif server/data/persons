@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a38fd76e-0975-4415-828f-1abfb9b349b2",
+    "firstName": "Nigora",
+    "lastName": "Ochilova",
+    "phone": "989898989",
+    "email": "nigora@nigora.ru",
+    "address": "Dushanbe",
+    "age": "18"
+  },
+  {
+    "id": "3cb811de-a1e0-4639-bd44-b3a145f1a3eb",
+    "firstName": "bbb",
+    "lastName": "klkjn",
+    "phone": "985646964",
+    "email": "dzhuraeva.n06@gmail.com",
+    "address": "slibfksdjf",
+    "age": "18"
+  },
+  {
+    "id": "613606b9-4e70-42cc-a1c1-41eba907ac81",
+    "firstName": "ffd",
+    "lastName": "klkjn",
+    "phone": "985646964",
+    "email": "dzhuraeva.n06@gmail.com",
+    "address": "adflkbb",
+    "age": "18"
+  },
+  {
+    "id": "b89c57e5-ad63-4cdd-a75e-f6f61f968e61",
+    "firstName": "bbb",
+    "lastName": "klkjn",
+    "phone": "985646964",
+    "email": "dzhuraeva.n06@gmail.com",
+    "address": "adflkbb",
+    "age": "18"
+  },
+  {
+    "id": "0167ad2c-1878-4980-a73d-83d58b3136f8",
+    "firstName": "Alisher",
+    "lastName": "klkjn",
+    "phone": "985646964",
+    "email": "dzhuraeva.n06@gmail.com",
+    "address": "aldjffd@fad/rt",
+    "age": "19"
+  }
+]
